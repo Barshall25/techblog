@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <title></title>
+  </head>
+   
+   <p> const go = document. querySelector('go');
+const ans = document. querySelector('ans');
+
+go.addEventListener('click', doMath);
+
+function doMath(){
+  
+
+// get's a number from the first input let n1 = parseint(
+
+const n1 =parseint(document.querySelector('#n1').value);
+const n2 =parseint(document.querySelector('#n2').value);
+console.log(pareint(n1.value): // coverts the string to an int
+  console.log(pareint(n2.value): // coverts the string to an int
+ans.innerTHMl ="<li>apple"</li>"";
+console.log(ans.innerHTML = '<li>apple</li>'))
+ans.innerHTML = '<li>' + (n1 + n2) + '</li>';
+  ans.innerHTML = '<li>' + (n1 - n2) + '</li>';
+ }
+        </P> 
+        <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="mdMvjjM" data-user="Barshall25" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/Barshall25/pen/mdMvjjM">
+  JS-Operators</a> by Emmanuel (<a href="https://codepen.io/Barshall25">@Barshall25</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
